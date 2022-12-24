@@ -1,0 +1,16 @@
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/uploads
+wp-content/index.php
+wp-content/languages
+*.log
+/index.php
+license.txt
+readme.html
+.idea/
+.htaccess
+wp-admin/
+xmlrpc.php
+wp-includes
+.DS_Store
+sitemap.xml
