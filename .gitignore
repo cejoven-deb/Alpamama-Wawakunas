@@ -4,7 +4,7 @@ wp-content/uploads
 wp-content/index.php
 wp-content/languages
 *.log
-/index.php
+index.php
 license.txt
 readme.html
 .idea/
